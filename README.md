@@ -11,5 +11,5 @@ To test out branches:
 - Create a new branch
 - Change your image (or add a new card)
 - Make a pull request
-- Assign a reviewer
+- Assign a reviewer (if applicable)
 - Merge your changes!
